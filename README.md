@@ -8,3 +8,4 @@ core/: código central (lógica del juego, modelos, utilidades, etc.)
 
 android/: módulo para Android que integra la interfaz, actividades, gráficos, entrada del usuario, etc.
 
+![Menú principal](https://github.com/Medgasan/CrazyGranny/blob/main/screenshots/main.png)
